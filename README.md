@@ -1,4 +1,4 @@
-<h1>👋 Hello there, I’m @kastenmasten2</h1>
+<h1>👋 Hello there, I’m Sadeeq Umar</h1>
 <div><img src="https://pinely.eu/_next/image?url=https%3A%2F%2Fpinely-strapi-files.s3.eu-west-3.amazonaws.com%2Flogo_0bda874db4.png&w=128&q=75"</div>>
 <div>
 <h3>About Me :</h3>
@@ -6,7 +6,7 @@
 <li>👾 Part of Pinely International</li>
 <li>🔝 I’m looking to collaborate on some interesting project</li>
 <li>💻 MERN Stack Developer</li>
-<li>📫 How to reach me: konstantin.vasilev@pinely.eu</li>
+<li>📫 How to reach me: sadeeq.umar@pinely.eu</li>
 </ul>
 
 <div>
